@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/06928e5b-5423-4d45-a797-284258f8f7e1
+
 # Robo_taxi
 Machine view of the sensors( Semantic segmented Camera, Radar, Semantic Segmented Lidar)
 
